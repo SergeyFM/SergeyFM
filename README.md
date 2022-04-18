@@ -8,7 +8,8 @@ The world of programming isn't an uncharted territory for me because I’ve been
 I’m happy to be part of the #GitHub community and have the chance to share my ideas and learn from you all. <br> <br>
 🏃 Besides programming, my hobbies include marathon running, photography and learning of human languages - so far I can speak English, German and my native language Russian.
 
-Please feel free to let me know if anything.
-<img src="my_fb_icon.png" height=30px>
+Please feel free to let me know if anything. <br>
+<a href="https://www.facebook.com/svistunovsergey">
+<img src="my_fb_icon.png" height=30px> </a>
 
 
