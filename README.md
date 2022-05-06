@@ -1,7 +1,7 @@
 
 ## ☀️ Hi there! My name is Sergey Svistunov. 
 
-👔 I’m an experienced Presales engineer. Started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued as a Presales - POS terminals, payment software and related services. 
+👔 I’m an experienced IT Presales engineer. Started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued as a Presales - POS terminals, payment software and related services. I've been researching, building and selling IT solutions my whole life!
 <br>
 <br>
 💻 All things aside, I decided around 2020 to become a professional software developer. I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> <br>
