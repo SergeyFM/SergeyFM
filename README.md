@@ -1,11 +1,12 @@
 
-## ☀️ Hi there! My name is Sergey Svistunov. 
+## ☀️ Hi! I'm Sergey Svistunov. 
 
 👔 I’m an experienced IT Presales engineer. Started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued as a Presale - POS terminals, payment software and related services. I've been researching, building and selling IT solutions my whole life!
 <br>
 <br>
-💻 All things aside, I decided at around year 2020 to become a professional software developer. I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> <br>
-The world of programming isn't an uncharted territory for me because I’ve been in and out of coding since my student days. Learning to program is hard, so I don’t get discouraged when I'm making mistakes at first. I’m diligently acquiring Kotlin programming language with a focus on Android and backend development. <br>
+💻 After years of working in many very different companies and environments, around 2020 I decided to slide in more technical direction, I decided to become a professional software developer. I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And now I'm applying this knowledge to the projects you'll find here on GitHub.
+<br><br>
+The world of programming isn't uncharted territory for me because I’ve been in and out of coding since my student days. Learning to code is hard, so I don’t get discouraged when I make mistakes at first. I’m diligently acquiring the Kotlin programming language with a focus on Android and backend development. <br>
 ## I write code every day!
 <a href="https://kotlinlang.org/" target="_blank">
 <img src="small_kotlin.png" height=57px>
