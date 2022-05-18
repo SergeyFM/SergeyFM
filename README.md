@@ -1,7 +1,7 @@
 
 ## ☀️ Hi! I'm Sergey Svistunov. 
 
-👔 My daytime jog is an IT Presales engineer. Started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued as a Presale - POS terminals, payment software and related services. I've been researching, building and selling IT solutions my whole life!
+👔 My day job is in IT Presales. Started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued as a Presale - POS terminals, payment software and related services. I've been researching, building and selling IT solutions my whole life!
 <br>
 <br>
 💻 After years of working in many very different companies and environments, around 2020 I decided to slide in more technical direction, I decided to become a software developer. I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And now I'm applying this knowledge to the projects you'll find here on GitHub.
