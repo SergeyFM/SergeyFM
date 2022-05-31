@@ -6,7 +6,7 @@
 <br>
 💻 After years of working in many very different companies and environments, around 2020 I decided to slide to more technical side, I began my journey towards a software developer role. I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And now I'm applying this knowledge to the projects you'll find here on GitHub.
 <br><br>
-There are several projects I've done on GitHub. Here are public ones:
+There are several projects that I've done. Here are public ones on GitHub:
 * Console application that imports word definition from LingQ portal
 * Original solutions to typical coding riddles in Kotlin
 
