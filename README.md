@@ -24,7 +24,7 @@ I’m happy to be part of the #GitHub community and have the chance to share my 
 🏃 Besides programming, my hobbies include marathon running, photography and learning human languages - so far I can speak English, German and my native language Russian.
 <br><br> 
 
-Please feel free to let me know if anything.  BTW I'm looking for a programming job. <br>
+Please feel free to let me know if anything.  <br>
 <a href="https://www.facebook.com/svistunovsergey" target="_blank">
    <img src="my_fb_icon.png" height=57px> 
 </a>
