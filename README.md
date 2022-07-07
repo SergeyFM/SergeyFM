@@ -1,7 +1,7 @@
 
 ## ☀️ Hi! I'm Sergey Svistunov. 
 
-👔 I work in IT Presales. I started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued as a Presale - POS terminals, payment software and related services. I've been researching, building and selling IT solutions all my life!
+👔 I work in IT Presales. I started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued in Presales - POS terminals, payment software and related services. I've been researching, building and selling complex solutions all my life!
 <br>
 <br>
 💻 After years of working in so many very different companies and environments, around 2020 I decided to improve my skills in more technical areas. I've always wanted and actually did write programms. QuickBasic was my best friend at school. 
