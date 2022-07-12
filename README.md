@@ -1,10 +1,10 @@
 
 ## ☀️ Hi! I'm Sergey Svistunov. 
 
-👔 I've been working in IT Presales for many years. I started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued in Presales - POS terminals, payment software and related services. I've been researching, building and selling complex solutions all my life!
+👔 I've been working in IT Presales for many years. I started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued in Presales - POS terminals, payment software and related services. I've been researching, building and selling complex solutions all my life.
 <br>
 <br>
-💻 After years of working in so many very different companies and environments, around 2020 I decided to improve my skills in more technical areas. I've always wanted and actually did write programms. QuickBasic was my best friend at school. 
+💻 After years of working in so many very different companies and environments, around 2020 I decided to expand my skills in more technical direction. I've always liked programming. QuickBasic was my best friend at school. 
 <br> I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And now I'm applying this knowledge to the projects you'll find here on GitHub.
 <br><br>
 There are several projects that I've done. Here are public ones on GitHub:
