@@ -24,11 +24,11 @@ The world of programming isn't uncharted territory for me, but still learning to
 🏃 Besides programming, my hobbies include marathon running, photography and learning human languages - so far I can speak English, German and my native language Russian.
 <br><br> 
 
-Please feel free to let me know if anything.  <br>
+✨ Please feel free to let me know if anything.  <br>
 <a href="https://www.facebook.com/svistunovsergey" target="_blank">
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 28-Jul-22 </sup>
+<sup> Update 29-Jul-22 </sup>
 
 
