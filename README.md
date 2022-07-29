@@ -25,7 +25,7 @@ The world of programming isn't uncharted territory for me, but still learning to
 <br><br> 
 
 ✨ Please feel free to let me know if anything.  <br>
-<a href="https://www.facebook.com/svistunovsergey" target="_blank">
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/svistunovsergey" target="_blank">
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
