@@ -13,8 +13,7 @@ There are several projects that I've done. Here are public ones on GitHub:
 
 The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with a focus on Android and backend development. <br>
 ## I write code every day!
-<sup> Something, anything, even if only a tiny edit to this document! <br>
-(Some days I'm too bisy even for this: June 23, 2022, July 15, 2022. :smirk:)</sup> <br>
+<sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
 <a href="https://kotlinlang.org/" target="_blank">
 <img src="small_kotlin.png" height=57px>
 </a> 
@@ -29,6 +28,6 @@ The world of programming isn't uncharted territory for me, but still learning to
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 07-Aug-22 </sup>
+<sup> Update 08-Aug-22 </sup>
 
 
