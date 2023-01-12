@@ -11,7 +11,7 @@ There are several projects that I've done. Here are public ones on GitHub:
 * Console application that imports word definition from LingQ portal
 * Original solutions to typical coding riddles in Kotlin
 
-The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with a focus on Android and backend development. <br>
+The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with focus on functional programming. <br>
 ## I write code every day! (I try)
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
 <a href="https://kotlinlang.org/" target="_blank">
