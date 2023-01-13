@@ -4,14 +4,14 @@
 👔 I've been working in IT Presales for many years. I started as a Sysadmin, then worked as a Project manager, Business Analyst, and continued in Presales - POS terminals, payment software and related services. I've been researching, building and selling complex solutions all my life.
 <br>
 <br>
-💻 After years of working in so many very different companies and environments, around 2020 I decided to expand my skills in a more technical direction. I've always liked programming. QuickBasic was my best friend at school. 
-<br> I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And now I'm applying this knowledge to the projects you'll find here on GitHub.
+💻 After years of working in so many very different companies and environments, around 2020 I decided to expand my skills in a more technical direction. After all, I've always liked programming and QuickBasic was my best friend at school. 
+<br> I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And then I applied this knowledge to the projects you can find here on GitHub.
 <br><br>
 There are several projects that I've done. Here are public ones on GitHub:
 * Console application that imports word definition from LingQ portal
 * Original solutions to typical coding riddles in Kotlin
 
-The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with focus on functional programming. <br>
+The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with the focus on functional programming. <br>
 ## I write code every day! (I try)
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
 <a href="https://kotlinlang.org/" target="_blank">
@@ -20,7 +20,7 @@ The world of programming isn't uncharted territory for me, but still learning to
 <br> <br>
 💥 I’m happy to be part of the #GitHub community and have the chance to share my ideas and learn from you all! <br> <br>
 <img src="panorama.jpg" height=50px width=100%>
-🏃 Besides programming, my hobbies include marathon running, photography and learning human languages - so far I can speak English, German and my native language Russian.
+🏃 Besides programming, my hobbies include marathon running, photography and learning human languages - so far I can speak English, German and Russian (my native language).
 <br><br> 
 
 ✨ Please feel free to let me know if anything.  <br>
@@ -28,6 +28,6 @@ The world of programming isn't uncharted territory for me, but still learning to
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 12-Jan-23 </sup>
+<sup> Update 13-Jan-23 </sup>
 
 
