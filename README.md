@@ -12,6 +12,8 @@ There are several projects that I've done. Here are public ones on GitHub:
 * Original solutions to typical coding riddles in Kotlin
 
 The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with the focus on functional programming. <br>
+Recently I was told that for any junior programmer position I need **JAVA**. <br>
+- OK, no problem, I find it pretty too. <br>
 ## I write code every day! (I try)
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
 <a href="https://kotlinlang.org/" target="_blank">
