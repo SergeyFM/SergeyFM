@@ -11,9 +11,9 @@ There are several projects that I've done. Here are public ones on GitHub:
 * Console application that imports word definition from LingQ portal
 * Original solutions to typical coding riddles in Kotlin
 
-The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with the focus on functional programming. <br>
-Recently I was told that for any junior programmer position I need **JAVA**. <br>
-- OK, no problem, I find it pretty too. <br>
+The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with the focus on functional programming. <br><br>
+I'm thinking of moving to Deutschland, for that I better (re)learn **Java**. <br>
+- OK, no problem, I find Java lovely. <br>
 ## I write code every day!
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
 <a href="https://kotlinlang.org/" target="_blank">
@@ -30,6 +30,6 @@ Recently I was told that for any junior programmer position I need **JAVA**. <br
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 17-Jan-23 </sup>
+<sup> Update 18-Jan-23 </sup>
 
 
