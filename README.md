@@ -12,7 +12,7 @@ There are several projects that I've done. Here are public ones on GitHub:
 * Original solutions to typical coding riddles in Kotlin
 
 The world of programming isn't uncharted territory for me, but still learning to code well is hard. I’m diligently acquiring the Kotlin programming language with the focus on functional programming. <br><br>
-I'm thinking of moving to Deutschland, for that I better (re)learn **Java**. <br>
+I'm considering moving to Deutschland, for that I'd better (re)learn **Java**. <br>
 - OK, no problem, I find Java lovely. <br>
 ## I write code every day!
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
