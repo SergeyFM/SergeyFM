@@ -13,7 +13,7 @@ There are several projects that I've done. Here are public ones on GitHub:
 
 The world of programming isn't uncharted territory for me,  but it's still hard to learn to code well. I'm diligently learning the Kotlin programming language with the focus on functional programming. I'm learning other languages and concepts as well. <br><br>
 I've researched the current job market situation and decided I'd better (re)learn **Java**. <br>
-- OK, no problem, I find Java lovely. <br>
+- OK, no problem, I find Java lovely too. <br>
 ## I write code every day!
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
 <a href="https://kotlinlang.org/" target="_blank">
@@ -30,6 +30,6 @@ I've researched the current job market situation and decided I'd better (re)lear
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 10-Feb-23 </sup>
+<sup> Update 11-Feb-23 </sup>
 
 
