@@ -8,7 +8,7 @@ So in addition to technical experience, I have the skills of a presale, a projec
 In the course of my life, I have worked mainly in three areas: 
 - Printing and document processing (worked at Xerox and Kyocera),
 - IoT projects for cars (BRIGHTBOX, C-Cars),
-- Banking and payment systems (Injenico, blockchain startup).
+- Banking and payment systems (Ingenico, Blockchain startup).
 <br>
 💻 After years of working in so many very different companies and environments, around 2020 I decided to expand my skills in a more technical direction. After all, I've always liked programming and QuickBasic was my best friend at school. 
 <br> I started with CodeWars achieving 3kyu level in **C++** and **Kotlin**: <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> And then I applied this knowledge to the projects you can find here on GitHub.
