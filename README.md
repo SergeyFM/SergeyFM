@@ -4,7 +4,7 @@
 👔   I've worked in IT presales for many years. I started as a sysadmin, then worked as a project manager, business analyst and continued in presales - POS terminals, payment software and related services. I've been researching, building and selling complex solutions all my life.
 <br>
 
-I have worked as a pre-sales person, a project manager, and a business analyst in three areas over the course of my life:
+I have significant experience in three areas:
 * Printing and document processing (worked at Xerox and Kyocera),
 * IoT projects for cars (Brightbox, C-Cars),
 * Banking and payment systems (Ingenico, Blockchain startup).
@@ -41,6 +41,6 @@ I've researched the current job market situation and decided I'd better (re)lear
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 14-Feb-23 </sup>
+<sup> Update 16-Feb-23 </sup>
 
 
