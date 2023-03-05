@@ -21,7 +21,7 @@ There are several projects that I've done. Here are public ones on GitHub:
 
 The world of programming isn't uncharted territory for me,  but it's still hard to learn to code well. I'm diligently learning the Kotlin programming language with the focus on functional programming. I'm learning other languages and concepts as well. <br><br>
 I've researched the current job market situation and decided I'd better (re)learn **Java**. <br>
-* And now I'm working on a **C#** project. <br>
+* And now I'm working on a **C#** project and I'm back to **C++** as well. <br>
 
 ## I write code every day!
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
