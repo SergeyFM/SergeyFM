@@ -25,8 +25,9 @@ I've researched the current job market situation and decided I'd better (re)lear
 
 ## I write code every day!
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
-<img src="small_kotlin.png" height=57px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="small_java.png" height=57px> &nbsp;
+<img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="small_kotlin.png" height=57px> &nbsp;&nbsp;
+<img src="small_java.png" height=57px>
 <img src="small_spring.png" height=57px>
 
 <br>
@@ -41,6 +42,6 @@ I've researched the current job market situation and decided I'd better (re)lear
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 15-Mar-23 </sup>
+<sup> Update 18-Mar-23 </sup>
 
 
