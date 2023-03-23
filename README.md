@@ -20,15 +20,15 @@ There are several projects that I've done. Here are public ones on GitHub:
 * Original solutions to typical coding riddles in Kotlin
 
 The world of programming isn't uncharted territory for me,  but it's still hard to learn to code well. I'm diligently learning the Kotlin programming language with the focus on functional programming. I'm learning other languages and concepts as well. <br><br>
-I've researched the current job market situation and decided I'd better (re)learn **Java**. <br>
-* And now I'm working on a **C#** project and I'm back to **C++** as well. <br>
+I've researched the job market situation and decided I'd better (re)learn **Java**. <br>
+* And then I got a **C#** job, which means .NET will be my main priority from now on. <br>
 
 ## I write code every day!
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
 <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="small_kotlin.png" height=57px> &nbsp;&nbsp;
+<img src="small_kotlin.png" height=40px> &nbsp;&nbsp;
 <img src="small_java.png" height=57px>
-<img src="small_spring.png" height=57px>
+
 
 <br>
 💥 I’m happy to be part of the #GitHub community and have the chance to learn and share my ideas! <br> <br>
@@ -42,6 +42,6 @@ I've researched the current job market situation and decided I'd better (re)lear
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 18-Mar-23 </sup>
+<sup> Update 23-Mar-23 </sup>
 
 
