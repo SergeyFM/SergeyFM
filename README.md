@@ -1,7 +1,8 @@
 
 ## ☀️ Hi! I'm Sergey Svistunov. 
 
-👔   I've worked in IT presales for many years. I started as a sysadmin, then worked as a project manager, business analyst and continued in presales - POS terminals, payment software and related services. I've been researching, building and selling complex solutions all my life.
+👔   I've worked in IT presales for many years. I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and continued in presales. I've been researching, building and selling complex solutions all my life.
+Then I decided to switch to programming and now I work as a C# developer.
 <br>
 
 I have significant experience in three areas:
