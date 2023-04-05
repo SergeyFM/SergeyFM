@@ -20,7 +20,7 @@ The world of programming isn't uncharted territory for me,  but it's still hard 
 QuickBasic ➔ x86 assembly ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
 <br>
 
-In the end I finally got a **C#** job, which means that **.NET** is a priority for me from now on. <br>
+I ended up getting a **C#** job, which means that from now on I am going to prioritize the .NET platform. Other languages will have to wait. <br>
 
 ## I write code every day!
 <sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
