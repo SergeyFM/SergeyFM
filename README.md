@@ -17,13 +17,13 @@ And then I applied this knowledge to the projects you can find here on GitHub.
 The world of programming isn't uncharted territory for me,  but it's still hard to learn to code well. 
 <br> Over the years, my language path has looked like this:
 <br>
-QuickBasic ➔ x86 assembly ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
+### QuickBasic ➔ x86 assembly ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
 <br>
 
-I ended up getting a **C#** job, which means that from now on I am going to prioritize the .NET platform. Other languages will have to wait. <br>
+I ended up getting a **C#** job, which means that from now on I am going to prioritize the .NET platform. Other languages and platforms have to wait. <br>
 
 ## I write code every day!
-<sup> Something, anything, even if only a tiny edit to this document! </sup> <br>
+<sup> Something, anything, even if only a tiny edit to this page! </sup> <br>
 <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="small_kotlin.png" height=40px> &nbsp;&nbsp;
 <img src="small_java.png" height=57px>
@@ -41,6 +41,6 @@ I ended up getting a **C#** job, which means that from now on I am going to prio
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Update 02-Apr-2023 </sup>
+<sup> Update 05-Apr-2023 </sup>
 
 
