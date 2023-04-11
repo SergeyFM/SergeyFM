@@ -29,7 +29,7 @@ I ended up getting a **C#** job, which means that from now on I am going to prio
 
 
 <br>
-💥 I’m happy to be part of the #GitHub community and have the chance to learn and share my ideas! <br> <br>
+💥 I'm happy to be a part of the #GitHub community and to have the opportunity to learn and share my ideas with others! <br> <br>
 <img src="panorama.jpg" height=50px width=100%>
 🏃 Apart from coding, I like to run marathons, take pictures and learn languages. I am fluent in English, German and Russian.
 <br><br> 
