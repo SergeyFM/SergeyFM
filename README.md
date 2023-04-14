@@ -1,6 +1,6 @@
 
 ## ☀️ Sergey Svistunov
-> C# Developer 
+> C# developer 
 
 👔   I've worked in IT presales for many years. I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and continued in presales. I've been researching, building and selling complex solutions all my life.
 Then I decided to switch to programming and now I work as a C# developer.
@@ -30,12 +30,13 @@ I ended up getting a **C#** job, which means that from now on I am going to prio
 <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="small_kotlin.png" height=40px> &nbsp;&nbsp;
 <img src="small_java.png" height=57px>
+***
 <img src="panorama.jpg" height=50px width=100%>
 
 🏃 Beside programming languages, I'm fluent in English, German and Russian.
 <br>
 
-***
+
 
 ✨ Please feel free to let me know if anything:  
 
@@ -43,6 +44,6 @@ I ended up getting a **C#** job, which means that from now on I am going to prio
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Updated 14-Apr-2023 </sup>
+<sup> Updated 15-Apr-2023 </sup>
 
 
