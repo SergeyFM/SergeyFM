@@ -24,7 +24,6 @@ And then I applied that knowledge to real-world projects, some of which you can 
 <br>
 
 I ended up getting a **C#** job, which means that from now on I am going to prioritize the .NET platform. Other languages and platforms have to wait. <br>
-<br>
 
 ### Languages I like:
 
@@ -38,7 +37,8 @@ I ended up getting a **C#** job, which means that from now on I am going to prio
 
 ***
 
-✨ Please feel free to let me know if anything:  &nbsp;&nbsp;&nbsp;&nbsp;
+✨ Please feel free to let me know if anything:  
+
 <a href="https://www.facebook.com/svistunovsergey" target="_blank">
    <img src="my_fb_icon.png" height=57px> 
 </a>
