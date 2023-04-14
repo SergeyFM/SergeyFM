@@ -16,20 +16,23 @@ And then I applied that knowledge to real-world projects, some of which you can 
 <br>
 ***
 > The world of programming isn't uncharted territory for me,  but it's still hard to learn to code well. 
-<br> 
+
 ### Over the years, my language path has looked like this:
+
 #### QuickBasic ➔ 8086_assembly ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
+
 <br>
+
 I ended up getting a **C#** job, which means that from now on I am going to prioritize the .NET platform. Other languages and platforms have to wait. <br>
 <br>
 
 ### Languages I like:
-<p align="center">
+
 <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="small_kotlin.png" height=40px> &nbsp;&nbsp;
 <img src="small_java.png" height=57px>
 <img src="panorama.jpg" height=50px width=100%>
-</p>
+
 🏃 Beside programming languages, I'm fluent in English, German and Russian.
 <br>
 
