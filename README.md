@@ -18,7 +18,7 @@ Then I decided to switch to programming and now I work as a C# developer.
 
 ### Over the years, my language path has looked like this:
 
-#### QuickBasic ➔ 8086_assembly ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
+#### :arrow_forward: QuickBasic ➔ 8086_assembly ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
 
 <br>
 
