@@ -11,9 +11,8 @@ Then I decided to switch to programming and now I work as a C# developer.
 * IoT projects for cars (Brightbox, C-Cars),
 * Banking and payment systems (Ingenico, Blockchain startup).
 
-💻 After years of working in so many very different companies and environments, around 2020 I decided to expand my skills in a more technical direction. I started with CodeWars achieving 3kyu level in C++ and Kotlin: <br> <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> <br> 
-And then I applied that knowledge to real-world projects, some of which you can find here on GitHub.
-<br>
+💻 After years of working in so many very different companies and environments, around 2020 I decided to expand my skills in a more technical direction. I started with CodeWars achieving 3kyu level in C++ and Kotlin, then I applied that knowledge to real-world projects, some of which you can find here on GitHub. 
+<br> <br> <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> 
 ***
 > The world of programming isn't uncharted territory for me,  but it's still hard to learn to code well. 
 
@@ -33,7 +32,7 @@ I ended up getting a **C#** job, which means that from now on I am going to prio
 ***
 <img src="panorama.jpg" height=50px width=100%>
 
-🏃 Beside programming languages, I'm fluent in English, German and Russian.
+🏃 Beside programming languages, I'm fluent in English, German and Russian. 
 <br>
 
 
@@ -44,6 +43,6 @@ I ended up getting a **C#** job, which means that from now on I am going to prio
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Updated 15-Apr-2023 </sup>
+<sup> Updated 16-Apr-2023 </sup>
 
 
