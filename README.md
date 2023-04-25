@@ -22,7 +22,7 @@ Then I decided to switch to programming and now I work as a C# developer.
 
 <br>
 
-I ended up getting a **C#** job, which means that I.prioritize the .NET platform überall. Other languages and platforms will wait. <br>
+I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms will wait. <br>
 
 ### Languages I like:
 
