@@ -22,7 +22,7 @@ Then I decided to switch to programming and now I work as a C# developer.
 
 <br>
 
-I ended up getting a **C#** job, which means that from now on I am going to prioritize the .NET platform. Other languages and platforms have to wait. <br>
+I ended up getting a **C#** job, which means that I.prioritize the .NET platform überall. Other languages and platforms will wait. <br>
 
 ### Languages I like:
 
@@ -43,6 +43,6 @@ I ended up getting a **C#** job, which means that from now on I am going to prio
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Updated 16-Apr-2023 </sup>
+<sup> Updated 25-Apr-2023 </sup>
 
 
