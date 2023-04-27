@@ -33,7 +33,7 @@ I ended up getting a **C#** job, which means that I prioritize the .NET platform
 <img src="panorama.jpg" height=50px width=100%>
 
 🏃 Beside programming languages, I'm fluent in English, German and Russian. 
-<br>
+I used to do a lot of long-distance running, but now I mostly walk because of time constraints.
 
 
 
@@ -43,6 +43,6 @@ I ended up getting a **C#** job, which means that I prioritize the .NET platform
    <img src="my_fb_icon.png" height=57px> 
 </a>
 <br><br><br>
-<sup> Updated 25-Apr-2023 </sup>
+<sup> Updated 27-Apr-2023 </sup>
 
 
