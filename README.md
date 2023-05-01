@@ -24,11 +24,8 @@ Then I decided to switch to programming and now I work as a C# developer.
 
 I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms will wait. <br>
 
-### Languages I like:
+### Languages I like: &nbsp;&nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
 
-<img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="small_kotlin.png" height=40px> &nbsp;&nbsp;
-<img src="small_java.png" height=57px>
 ***
 <img src="panorama.jpg" height=50px width=100%>
 
