@@ -41,7 +41,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 ***
 
-### Technologies, applications and frameworks I plan to learn, try or work with:
+### Technologies, applications and frameworks I learn, try or already work with:
 *	MS Visual Studio 
 *	NuGet packages
 *	Markdown language
