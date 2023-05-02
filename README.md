@@ -36,10 +36,52 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 ✨ Please feel free to let me know if anything:  
 
-<a href="https://www.facebook.com/svistunovsergey" target="_blank">
-   <img src="my_fb_icon.png" height=57px> 
-</a>
-<br><br><br>
+<a href="https://www.facebook.com/svistunovsergey" target="_blank">  <img src="my_fb_icon.png" height=57px> </a>
+<br><br>
+
+***
+
+### Technologies, applications and frameworks I plan to learn, try or work with:
+*	MS Visual Studio 
+*	NuGet packages
+*	Markdown language
+*	VBA programming for Excel, Word, Access
+*	MS Office docs (EPPlus, Spire.Doc)
+*	Data Structures and Algorithms
+*	ELMA BPM
+*	.NET Core
+*	LINQ
+*	UI frameworks (Windows Forms, WPF, MVVM, MVVMCROSS)
+*	Git, GitHub
+*	ASP.NET, MVC, Razor pages, HTML, CSS
+*	Blazor WEB-Framework
+*	Unit testing (xUnit, NUnit, MSTest)
+*	Arch. principles (SOLID, TDD, DI, IoC)
+*	ADC input modules (OVEN MB110-220.8AC, OVEN MB110-224.8A)
+*	DryIoc IoC Container
+*	Serializing (Newtonsoft.Json, System.Text.Json)
+*	ORM (NHibernate, Entity Framework - EF Core, Dapper)
+*	ADO.NET
+*	API (REST, SOAP, XML-RPC, JSON-RPC)
+*	Layered pattern, DDD, CQRS&EventSourcing
+*	CI/CD
+*	DB (PostgreSQL, MS SQL Server, MongoDB, LiteDB, Transact-SQL)
+*	Containerization (Docker, Kubernetes - k8s)
+*	Azure Cloud Services
+*	In-memory data sotre (Redis, Memcached)
+*	Linux
+*	Authentication protocols (OAuth 2.0, OpenID Connect)
+*	Universal Windows Platform (UWP)
+*	Atlassian Jira, Confluence
+*	Comm protocols (Modbus, TCP/IP, TCP/UDP, VoIP)
+*	Messaging (RabbitMQ)
+*	gRPC
+*	JS, JavaScript, TypeScript
+*	Frontend frameworks (React, VueJs, Angular, Aurelia, Svelte, MobX, NextJS)
+*	Agile frameworks (Scrum, Kanban, Extreme Programming)
+*	Service Orientated Architecture (SOA)
+
+<br> <br> 
 <sup> Updated 27-Apr-2023 </sup>
 
 
