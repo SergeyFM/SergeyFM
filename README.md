@@ -42,46 +42,31 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ***
 
 ### Technologies, applications and frameworks I consider, learn, or already work with:
-*	MS Visual Studio 
-*	NuGet packages
-*	Markdown language
-*	VBA programming for Excel, Word, Access
-*	MS Office docs (EPPlus, Spire.Doc)
+*	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
 *	Data Structures and Algorithms
-*	ELMA BPM
-*	.NET Core
-*	LINQ
-*	UI frameworks (Windows Forms, WPF, MVVM, MVVMCROSS)
-*	Git, GitHub
-*	ASP.NET, MVC, Razor pages, HTML, CSS
-*	Blazor WEB-Framework
-*	Unit testing (xUnit, NUnit, MSTest)
-*	Arch. principles (SOLID, TDD, DI, IoC)
-*	ADC input modules (OVEN MB110-220.8AC, OVEN MB110-224.8A)
-*	DryIoc IoC Container
-*	Serializing (Newtonsoft.Json, System.Text.Json)
-*	ORM (NHibernate, Entity Framework - EF Core, Dapper)
-*	ADO.NET
-*	API (REST, SOAP, XML-RPC, JSON-RPC)
-*	Layered pattern, DDD, CQRS&EventSourcing
-*	CI/CD
-*	DB (PostgreSQL, MS SQL Server, MongoDB, LiteDB, Transact-SQL)
-*	Containerization (Docker, Kubernetes - k8s)
-*	Azure Cloud Services
-*	In-memory data sotre (Redis, Memcached)
-*	Linux
-*	Authentication protocols (OAuth 2.0, OpenID Connect)
-*	Universal Windows Platform (UWP)
-*	Atlassian Jira, Confluence
-*	Comm protocols (Modbus, TCP/IP, TCP/UDP, VoIP)
-*	Messaging (RabbitMQ)
-*	gRPC
-*	JS, JavaScript, TypeScript
-*	Frontend frameworks (React, VueJs, Angular, Aurelia, Svelte, MobX, NextJS)
+*	API patterns: REST, SOAP, GrafQL, XML-RPC, JSON-RPC
+*	Team collab: Atlassian Jira, Confluence, Asana, Trello
 *	Agile frameworks (Scrum, Kanban, Extreme Programming)
-*	Service Orientated Architecture (SOA)
+*	Base tech: .NET Core, LINQ, Git, Linux
+*	IDEs: MS Visual Studio, IntelliJ IDEA
+*	Unit testing: xUnit, NUnit, MSTest
+*	MS Office: EPPlus, Spire.Doc, Interop, +VBA
+*	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
+*	UI MVVM: Reactive UI, Prism, MVVMCross
+*	WEB framewords: ASP.NET, Razor pages, Blazor
+*	BPMS: ELMA BPM
+*	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle VM Virtual Box
+*	Dependency ingection: DryIoc, Autofac
+*	Serializing: Newtonsoft.Json, System.Text.Json
+*	ORM and DB: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
+*	DB: PostgreSQL, MS SQL Server, MongoDB, LiteDB, +T-SQL
+*	In-memory data sotre: Redis, Memcached
+*	Authentication protocols: OAuth 2.0, OpenID Connect
+*	Msg ques: RabbitMQ, Mosquitto, ActiveMQ
+*	HW controllers/sensors: RS485, Modbus, OVEN MB110-220.8AC, OVEN MB110-224.8A
+
 
 <br> <br> 
-<sup> Updated 27-Apr-2023 </sup>
+<sup> Updated 09-May-2023 </sup>
 
 
