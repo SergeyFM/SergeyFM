@@ -41,7 +41,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 ***
 
-### Technologies, applications and frameworks I consider, learn, or already work with:
+### Technologies, applications and frameworks I review, learn, or already work with:
 *	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
 *	Data Structures and Algorithms
 *	API patterns: REST, SOAP, GrafQL, XML-RPC, JSON-RPC
@@ -52,7 +52,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Unit testing: xUnit, NUnit, MSTest
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
-*	UI MVVM: Reactive UI, Prism, MVVMCross
+*	UI MVVM: ReactiveUI, Prism, MVVMCross, CommunityToolkit.Mvvm
 *	WEB framewords: ASP.NET, Razor pages, Blazor
 *	BPMS: ELMA BPM
 *	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle VM Virtual Box
