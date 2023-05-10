@@ -44,7 +44,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
 *	Data Structures and Algorithms
-*	API patterns: REST, SOAP, GrafQL, XML-RPC, JSON-RPC
 *	Team collab: Atlassian Jira, Confluence, Asana, Trello
 *	Agile frameworks (Scrum, Kanban, Extreme Programming)
 *	Base tech: .NET Core, LINQ, Git, Linux
@@ -54,6 +53,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
 *	UI MVVM: ReactiveUI, Prism, MVVMCross, CommunityToolkit.Mvvm
 *	WEB framewords: ASP.NET, Razor pages, Blazor
+*	API patterns: REST, SOAP, GrafQL, XML-RPC, JSON-RPC
 *	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle VM Virtual Box
 *	Dependency ingection: DryIoc, Autofac
 *	Serializing: Newtonsoft.Json, System.Text.Json
