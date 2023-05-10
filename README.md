@@ -29,7 +29,7 @@ I ended up getting a **C#** job, which means that I prioritize the .NET platform
 ***
 <img src="panorama.jpg" height=50px width=100%>
 
-🏃 Beside programming languages, I'm fluent in English, German and Russian. 
+🏃 Beside programming languages, I'm proficient in English, German and Russian. 
 I used to do a lot of long-distance running, but now I mostly walk because of time constraints.
 
 
@@ -54,7 +54,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
 *	UI MVVM: ReactiveUI, Prism, MVVMCross, CommunityToolkit.Mvvm
 *	WEB framewords: ASP.NET, Razor pages, Blazor
-*	BPMS: ELMA BPM
 *	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle VM Virtual Box
 *	Dependency ingection: DryIoc, Autofac
 *	Serializing: Newtonsoft.Json, System.Text.Json
@@ -64,9 +63,11 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Authentication protocols: OAuth 2.0, OpenID Connect
 *	Msg ques: RabbitMQ, Mosquitto, ActiveMQ
 *	HW controllers/sensors: RS485, Modbus, OVEN MB110-220.8AC, OVEN MB110-224.8A
+*	BPMS: ELMA BPM
+
 
 
 <br> <br> 
-<sup> Updated 09-May-2023 </sup>
+<sup> Updated 10-May-2023 </sup>
 
 
