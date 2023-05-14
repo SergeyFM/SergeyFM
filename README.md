@@ -43,7 +43,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	WEB framewords: ASP.NET, Razor pages, Blazor
-*	DB: T-SQL Querying + PostgreSQL, MS SQL Server, MongoDB, LiteDB
+*	DB: PL/pgSQL/T-SQL Querying + PostgreSQL, MS SQL Server, MongoDB, LiteDB
 *	BPMS: ELMA BPM
 *	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
 *	Data Structures and Algorithms
@@ -67,6 +67,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 
 <br> <br> 
-<sup> Updated 13-May-2023 </sup>
+<sup> Updated 14-May-2023 </sup>
 
 
