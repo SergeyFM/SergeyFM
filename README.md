@@ -42,15 +42,11 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ***
 
 ### Technologies, applications and frameworks I review, learn, or already work with:
+*	Base tech: .NET Core, LINQ, Git, Linux, Windows, MS Visual Studio
+*	BPMS: ELMA BPM
 *	WEB framewords: ASP.NET, Razor pages, Blazor
 *	DB: PL/pgSQL/T-SQL Querying + PostgreSQL, MS SQL Server, MongoDB, LiteDB
-*	BPMS: ELMA BPM
-*	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
-*	Data Structures and Algorithms
-*	Team collab: Atlassian Jira, Confluence, Asana, Trello
-*	Agile frameworks (Scrum, Kanban, Extreme Programming)
-*	Base tech: .NET Core, LINQ, Git, Linux
-*	IDEs: MS Visual Studio, IntelliJ IDEA
+*	ORM and DB: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: xUnit, NUnit, MSTest
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
@@ -59,14 +55,16 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle VM Virtual Box
 *	Dependency ingection: DryIoc, Autofac
 *	Serializing: Newtonsoft.Json, System.Text.Json
-*	ORM and DB: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	In-memory data sotre: Redis, Memcached
 *	Authentication protocols: OAuth 2.0, OpenID Connect
 *	Msg ques: RabbitMQ, Mosquitto, ActiveMQ
 *	HW controllers/sensors: RS485, Modbus, OVEN MB110-220.8AC, OVEN MB110-224.8A
-
+*	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
+*	Team collab: Atlassian Jira, Confluence, Asana, Trello, GitHub
+*	Agile frameworks: Scrum, Kanban, Extreme Programming
+*	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 14-May-2023 </sup>
+<sup> Updated 17-May-2023 </sup>
 
 
