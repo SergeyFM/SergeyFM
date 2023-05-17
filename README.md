@@ -44,13 +44,13 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	Base tech: .NET Core, LINQ, Git, Linux, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
-*	WEB framewords: ASP.NET, Razor pages, Blazor
+*	WEB framework: ASP.NET, Razor pages, Blazor
 *	DB: PL/pgSQL/T-SQL Querying + PostgreSQL, MS SQL Server, MongoDB, LiteDB
 *	ORM and DB: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: xUnit, NUnit, MSTest
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
-*	UI MVVM: ReactiveUI, Prism, MVVMCross, CommunityToolkit.Mvvm
+*	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
 *	API patterns: REST, SOAP, GrafQL, XML-RPC, JSON-RPC
 *	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle VM Virtual Box
 *	Dependency ingection: DryIoc, Autofac
@@ -58,7 +58,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	In-memory data sotre: Redis, Memcached
 *	Authentication protocols: OAuth 2.0, OpenID Connect
 *	Msg ques: RabbitMQ, Mosquitto, ActiveMQ
-*	HW controllers/sensors: RS485, Modbus, OVEN MB110-220.8AC, OVEN MB110-224.8A
+*	HW controllers/readers: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, OVEN MB110-224.8A
 *	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
 *	Team collab: Atlassian Jira, Confluence, Asana, Trello, GitHub
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
