@@ -7,7 +7,7 @@ Then I decided to switch to programming and now I work as a C# developer.
 <br>
 ***
 ### I have significant experience in three areas:
-* Printing and document processing (worked at Xerox and Kyocera),
+* Printing and document processing (Xerox and Kyocera),
 * IoT projects for cars (Brightbox, C-Cars),
 * Banking and payment systems (Ingenico, Blockchain startup).
 
@@ -65,6 +65,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 21-May-2023 </sup>
+<sup> Updated 27-May-2023 </sup>
 
 
