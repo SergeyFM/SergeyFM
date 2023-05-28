@@ -6,7 +6,7 @@
 Then I decided to switch to programming and have been working as a C# developer for some time.
 <br>
 ***
-Years in different industries make me a pretty unique kind of developer, combining a range of technical and business life skills.
+> Years in different industries make me a pretty unique kind of developer, combining a range of technical and business life skills.
 ### I have significant experience in three areas:
 * Printing and document processing (Xerox and Kyocera),
 * IoT projects for cars (Brightbox, C-Cars),
