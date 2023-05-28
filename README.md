@@ -2,16 +2,17 @@
 ## ☀️ Sergey Svistunov
 > C# developer 
 
-👔   I've worked in IT presales for many years. I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and continued in presales. I've been researching, building and selling complex solutions all my life.
-Then I decided to switch to programming and now I work as a C# developer.
+👔   I've worked in IT presales for many years. I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time in presales. I've been researching, building and selling complex solutions all my life.
+Then I decided to switch to programming and have been working as a C# developer for some time.
 <br>
 ***
+Years in different industries make me a pretty unique kind of developer, combining a range of technical and business life skills.
 ### I have significant experience in three areas:
 * Printing and document processing (Xerox and Kyocera),
 * IoT projects for cars (Brightbox, C-Cars),
 * Banking and payment systems (Ingenico, Blockchain startup).
 
-💻 After years of working in so many very different companies and environments, around 2020 I decided to expand my skills in a more technical direction. I started with CodeWars achieving 3kyu level in C++ and Kotlin, then I applied that knowledge to real-world projects, some of which you can find here on GitHub. 
+💻 After years of working in pre-sales, around 2020 I decided to make a 180° turn towards system development and programming. I started with CodeWars achieving 3kyu level in C++ and Kotlin, then I applied that knowledge to real-world projects, some of which you can find here on GitHub. 
 <br> <br> <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> 
 ***
 > The world of programming isn't uncharted territory for me,  but it's still hard to learn to code well. 
@@ -22,7 +23,7 @@ Then I decided to switch to programming and now I work as a C# developer.
 
 <br>
 
-I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms will wait. <br>
+I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms are on hold. <br>
 
 ### Languages I like: &nbsp;&nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
 
@@ -65,6 +66,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 27-May-2023 </sup>
+<sup> Updated 28-May-2023 </sup>
 
 
