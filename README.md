@@ -55,7 +55,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
 *	API patterns: REST, SOAP, GrafQL, XML-RPC, JSON-RPC
-*	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle VM Virtual Box
+*	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle Virtual Box, MS Hyper-V 
 *	Dependency ingection: DryIoc, Autofac
 *	Serializing: Newtonsoft.Json, System.Text.Json
 *	In-memory data sotre: Redis, Memcached
@@ -68,6 +68,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 29-May-2023 </sup>
+<sup> Updated 03-Jun-2023 </sup>
 
 
