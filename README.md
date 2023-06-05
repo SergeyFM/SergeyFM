@@ -61,13 +61,13 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	In-memory data sotre: Redis, Memcached
 *	Authentication protocols: OAuth 2.0, OpenID Connect
 *	Msg ques: RabbitMQ, WSO2, ZeroMQ
-*	HW controllers/readers: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
+*	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
 *	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
 *	Team collab: Atlassian Jira, Confluence, Asana, Trello, GitHub
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 03-Jun-2023 </sup>
+<sup> Updated 05-Jun-2023 </sup>
 
 
