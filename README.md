@@ -62,6 +62,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Authentication protocols: OAuth 2.0, OpenID Connect
 *	Msg ques: RabbitMQ, WSO2, ZeroMQ
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
+*	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark
 *	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
 *	Team collab: Atlassian Jira, Confluence, Asana, Trello, GitHub
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
