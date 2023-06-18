@@ -8,10 +8,10 @@ Then I decided to switch to programming and have been working as a C# developer 
 ***
 > Years in different industries make me a pretty unique kind of developer, combining a range of technical and business life skills.
 ### I have significant experience in ~three~four areas:
-* Printing and document processing (Xerox and Kyocera),
-* IoT projects for cars (Brightbox, C-Cars),
-* Banking and payment systems (Ingenico, Blockchain startup),
-* Gas measurement equipment (Mirax-safety).
+* Printing and document processing (Xerox and Kyocera) - 6 yrs,
+* IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
+* Banking and payment systems (Ingenico, Blockchain startup) - 1 yr,
+* Gas measurement equipment (Mirax-safety) - since 2023 and counting.
 
 💻 After years of working in pre-sales, around 2020 I made a 90° turn towards system development and programming. I started with CodeWars achieving 3kyu level in C++ and Kotlin, then I applied that knowledge to real-world projects, some of which you can find here on GitHub. 
 <br> <br> <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light"> 
@@ -69,6 +69,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 13-Jun-2023 </sup>
+<sup> Updated 18-Jun-2023 </sup>
 
 
