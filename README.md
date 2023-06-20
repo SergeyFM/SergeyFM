@@ -8,7 +8,7 @@ Then I decided to switch to programming and have been working as a C# developer 
 ***
 > Years in different industries make me a pretty unique kind of developer, combining a range of technical and business life skills.
 ### I have significant experience in ~three~four areas:
-* Printing and document processing (Xerox and Kyocera) - 6 yrs,
+* Printing and document workflow&processing (Xerox and Kyocera) - 6 yrs,
 * IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
 * Banking and payment systems (Ingenico, Blockchain startup) - 1 yr,
 * Gas measurement equipment (Mirax-safety) - since 2023 and counting.
