@@ -49,7 +49,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	WEB: ASP.NET, Razor pages, Blazor
 *	DB: PL/pgSQL/T-SQL Querying + PostgreSQL, MS SQL Server, MongoDB, LiteDB
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
-*	Unit testing: xUnit, NUnit, MSTest
+*	Unit testing: MSTest, xUnit, NUnit
 *	Logging: SeriLog, Log4net, NLog
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
@@ -69,6 +69,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 18-Jun-2023 </sup>
+<sup> Updated 22-Jun-2023 </sup>
 
 
