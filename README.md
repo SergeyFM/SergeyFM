@@ -3,7 +3,7 @@
 > C# developer 
 
 👔   I've worked in IT presales for many years. I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time in presales. I've been researching, building and selling complex solutions all my life.
-Then I decided to switch to programming and have been working as a C# developer for some time.
+Then I decided to focus on programming and am currently working as a C# developer.
 <br>
 ***
 > Years in different industries make me a pretty unique kind of developer, combining a range of technical and business life skills.
@@ -69,6 +69,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 24-Jun-2023 </sup>
+<sup> Updated 26-Jun-2023 </sup>
 
 
