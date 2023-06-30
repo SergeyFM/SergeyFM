@@ -26,7 +26,7 @@ Then I decided to focus on programming and am currently working as a C# develope
 
 I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms are on hold. <br>
 
-### Languages I like: &nbsp;&nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
+### Languages I like: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
 
 ***
 <img src="panorama.jpg" height=50px width=100%>
@@ -69,6 +69,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 28-Jun-2023 </sup>
+<sup> Updated 30-Jun-2023 </sup>
 
 
