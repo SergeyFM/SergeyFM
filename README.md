@@ -38,7 +38,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 ✨ Please feel free to let me know if anything:  
 
-<a href="https://www.facebook.com/svistunovsergey" target="_blank">  <img src="my_fb_icon.png" height=57px> </a>
+<a href="https://www.facebook.com/svistunovsergey" target="_blank">  <img src="my_fb_icon.png" height=57px> </a> <a href="https://linkedin.com/in/sergeysvistunov" target="_blank">  <img src="my_li_icon.png" height=57px> </a>
 <br><br>
 
 ***
