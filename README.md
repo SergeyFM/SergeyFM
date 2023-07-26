@@ -46,15 +46,15 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	Base tech: .NET Core, LINQ, Git, Linux, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
-*	WEB: ASP.NET, Razor pages, Blazor
+*	WEB: ASP.NET, Razor pages, Blazor, React
 *	DB: PL/pgSQL/T-SQL Querying + PostgreSQL, MS SQL Server, MongoDB, LiteDB
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
-*	Unit testing: MSTest, xUnit, NUnit
+*	Unit testing: MSTest, xUnit
 *	Logging: SeriLog, Log4net, NLog
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
-*	API patterns: REST, SOAP, GrafQL, XML-RPC, JSON-RPC
+*	API patterns: REST, SOAP, GrafQL, gRPC
 *	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle Virtual Box, MS Hyper-V 
 *	Dependency ingection: DryIoc, Autofac
 *	Serializing: Newtonsoft.Json, System.Text.Json
