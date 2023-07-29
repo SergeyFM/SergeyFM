@@ -46,7 +46,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	Base tech: .NET Core, LINQ, Git, Linux, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
-*	WEB: ASP.NET, Razor pages, Blazor, React, Angular
+*	WEB: ASP.NET, Razor pages, Blazor, Svelte, Angular, React
 *	DB: PL/pgSQL/T-SQL Querying + PostgreSQL, MS SQL Server, MongoDB, LiteDB
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: MSTest, xUnit
@@ -69,6 +69,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 28-Jul-2023 </sup>
+<sup> Updated 29-Jul-2023 </sup>
 
 
