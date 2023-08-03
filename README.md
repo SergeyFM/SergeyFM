@@ -44,7 +44,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ***
 
 ### Technologies I currently use in everyday life:
-*	Base tech: .NET Core, LINQ, Git, Windows, MS Visual Studio
+*	Base tech: .NET 6/7, .NET Framework 4.6, LINQ, Git, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
 *	WEB: ASP.NET, Razor pages
 *	DB: PostgreSQL, LiteDB
@@ -60,7 +60,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
 
 ### Technologies, applications and frameworks I review, learn, or already work with:
-*	Base tech: .NET Core, LINQ, Git, Linux, Windows, MS Visual Studio
+*	Base tech: .NET Framework/Core, LINQ, Git, Linux, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
 *	WEB: ASP.NET, Razor pages, Blazor, Svelte, Angular, React
 *	DB: PL/pgSQL/T-SQL Querying + PostgreSQL, MS SQL Server, MongoDB, LiteDB
