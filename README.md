@@ -6,7 +6,7 @@
 Then I decided to focus on programming and am currently working as a C# developer.
 <br>
 ***
-> Years in different industries make me a pretty unique kind of developer, combining a range of technical and business life skills.
+> With years of experience in a variety of industries, I am a rather unique kind of developer, with a combination of technical and business life skills.
 ### I have significant experience in ~three~four areas:
 * Printing and document workflow&processing (Xerox and Kyocera) - 6 yrs,
 * IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
@@ -43,6 +43,22 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 ***
 
+### Technologies I currently use in everyday life:
+*	Base tech: .NET Core, LINQ, Git, Windows, MS Visual Studio
+*	BPMS: ELMA BPM
+*	WEB: ASP.NET, Razor pages
+*	DB: PostgreSQL, LiteDB
+*	ORM/DA: NHibernate
+*	Logging: SeriLog
+*	MS Office: EPPlus, Spire.Doc, Interop, +VBA
+*	UI frameworks: WinForms, WPF
+*	API patterns: REST
+*	Containerization and virtualization: Oracle Virtual Box
+*	Dependency ingection: DryIoc
+*	Serializing: Newtonsoft.Json, System.Text.Json
+*	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
+*	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
+
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	Base tech: .NET Core, LINQ, Git, Linux, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
@@ -60,7 +76,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Serializing: Newtonsoft.Json, System.Text.Json
 *	In-memory data sotre: Redis, Memcached
 *	Authentication protocols: OAuth 2.0, OpenID Connect
-*	Msg ques: RabbitMQ, WSO2, ZeroMQ
+*	Msg queues: RabbitMQ, WSO2, ZeroMQ
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 *	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
@@ -69,6 +85,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 29-Jul-2023 </sup>
+<sup> Updated 03-Aug-2023 </sup>
 
 
