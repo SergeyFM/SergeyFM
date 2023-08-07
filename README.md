@@ -58,7 +58,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Dependency ingection: DryIoc
 *	Serializing: Newtonsoft.Json, System.Text.Json
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
-*	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
+*	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC, SOA
 
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	Base tech: C#, PowerShell, .NET Framework/Core, LINQ, Git, Linux, Windows, MS Visual Studio
@@ -80,12 +80,12 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Msg queues: RabbitMQ, WSO2, ZeroMQ
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
-*	Arch. principles: SOLID, TDD, DI, IoC, SOA, CQRS and DDD patterns
+*	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC, SOA
 *	Team collab: Atlassian Jira, Confluence, Asana, Trello, GitHub
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 06-Aug-2023 </sup>
+<sup> Updated 07-Aug-2023 </sup>
 
 
