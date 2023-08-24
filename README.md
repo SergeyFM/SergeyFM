@@ -20,11 +20,9 @@ Then I decided to focus on programming and am currently working as a C# develope
 
 ### Over the years, my language path has looked like this:
 
-#### :arrow_forward: QuickBasic ➔ 8086_assembly ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
-
+:arrow_forward: QuickBasic ➔ 8086_assembly ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
 <br>
-
-I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms are on hold. <br>
+I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
 
 ### Languages I like: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
 
@@ -48,9 +46,10 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	BPMS: ELMA BPM
 *	WEB: ASP.NET, Razor pages
 *	DB: PostgreSQL, LiteDB
-*	ORM/DA: NHibernate
+*	ORM: NHibernate
 *	Unit testing: MSTest
 *	Logging: SeriLog
+*	Cloud/Servers: Yandex Cloud, Azure, Windows Dedicated Server
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF
 *	API patterns: REST
@@ -68,6 +67,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: MSTest, xUnit
 *	Logging: SeriLog, Log4net, NLog
+*	Cloud/Servers: Yandex Cloud, Azure, Windows Dedicated Server
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
@@ -86,6 +86,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 14-Aug-2023 </sup>
+<sup> Updated 24-Aug-2023 </sup>
 
 
