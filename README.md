@@ -21,7 +21,7 @@ Then I decided to focus on programming and am currently working as a C# develope
 ### Over the years, my language path has looked like this:
 
 :arrow_forward: QuickBasic ➔ 8086_assembly ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
-<br>
+<br> <br>
 I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
 
 ### Languages I like: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
@@ -45,7 +45,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Base tech: C#, .NET 6/7, .NET Framework 4.6, LINQ, Git, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
 *	WEB: ASP.NET, Razor pages
-*	DB: PostgreSQL, LiteDB
+*	DB: PostgreSQL+PL/pgSQL, LiteDB
 *	ORM: NHibernate
 *	Unit testing: MSTest
 *	Logging: SeriLog
@@ -57,13 +57,13 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Dependency ingection: DryIoc
 *	Serializing: Newtonsoft.Json, System.Text.Json
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
-*	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC, SOA
+*	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC
 
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	Base tech: C#, PowerShell, .NET Framework/Core, LINQ, Git, Linux, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
 *	WEB: ASP.NET, Razor pages, Blazor, Svelte, Angular, React
-*	DB: PL/pgSQL/T-SQL Querying + PostgreSQL, MS SQL Server, SQLite, MongoDB, LiteDB
+*	DB: PostgreSQL+PL/pgSQL, MS SQL Server, MySQL, MongoDB, LiteDB
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: MSTest, xUnit
 *	Logging: SeriLog, Log4net, NLog
@@ -80,12 +80,12 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Msg queues: RabbitMQ, WSO2, ZeroMQ
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
-*	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC, SOA
+*	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC, MSA, SOA
 *	Team collab: Atlassian Jira, Confluence, Asana, Trello, GitHub
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 24-Aug-2023 </sup>
+<sup> Updated 25-Aug-2023 </sup>
 
 
