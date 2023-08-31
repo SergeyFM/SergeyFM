@@ -57,7 +57,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Containerization and virtualization: Oracle Virtual Box
 *	Dependency ingection: DryIoc
 *	Serializing: Newtonsoft.Json, System.Text.Json
-*	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
+*	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A
 *	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC
 
 ### Technologies, applications and frameworks I review, learn, or already work with:
@@ -79,7 +79,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	In-memory data sotre: Redis, Memcached
 *	Authentication protocols: OAuth 2.0, OpenID Connect
 *	Msg queues: RabbitMQ, WSO2, ZeroMQ
-*	PLC: RS485, RS232, Modbus, HART, SNMP, OVEN MB110-220.8AC, MB110-224.8A
+*	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 *	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC, MSA, SOA
 *	Team collab: Atlassian Jira, Confluence, Asana, Trello, GitHub
