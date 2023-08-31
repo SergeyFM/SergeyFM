@@ -46,7 +46,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Base tech: C#, .NET 6/7, .NET Framework 4.6, LINQ, Git, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
 *	WEB: ASP.NET, Razor pages
-*	DB: PostgreSQL+PL/pgSQL, LiteDB
+*	DB: PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
 *	ORM: NHibernate
 *	Unit testing: MSTest
 *	Logging: SeriLog
@@ -63,14 +63,14 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ### Technologies, applications and frameworks I review, learn, or already work with:
 *	Base tech: C#, PowerShell, .NET Framework/Core, LINQ, Git, Linux, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
-*	WEB: ASP.NET, Razor pages, Blazor, Svelte, Angular, React
-*	DB: PostgreSQL+PL/pgSQL, MS SQL Server, MySQL, MongoDB, LiteDB
+*	WEB: ASP.NET, Razor pages, Blazor, Angular, React
+*	DB: PostgreSQL+SQL:2016+PL/pgSQL, MS SQL Server, MySQL, MongoDB, LiteDB
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: MSTest, xUnit
 *	Logging: SeriLog, Log4net, NLog
 *	Cloud/Servers: Yandex Cloud, Azure, Windows Dedicated Server
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
-*	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI/Xamarin
+*	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
 *	API patterns: REST, SOAP, GrafQL, gRPC
 *	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle Virtual Box, MS Hyper-V 
@@ -87,6 +87,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 25-Aug-2023 </sup>
+<sup> Updated 31-Aug-2023 </sup>
 
 
