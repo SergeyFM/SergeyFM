@@ -53,7 +53,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Cloud/Servers: Yandex Cloud, Azure, Windows Dedicated Server
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF
-*	API patterns: REST
+*	API: RESTful
 *	Containerization and virtualization: Oracle Virtual Box
 *	Dependency ingection: DryIoc
 *	Serializing: Newtonsoft.Json, System.Text.Json
@@ -72,7 +72,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
-*	API patterns: REST, SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI
+*	API: REST, SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI
 *	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle Virtual Box, MS Hyper-V 
 *	Dependency ingection: DryIoc, Autofac
 *	Serializing: Newtonsoft.Json, System.Text.Json
@@ -87,6 +87,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 31-Aug-2023 </sup>
+<sup> Updated 12-Sep-2023 </sup>
 
 
