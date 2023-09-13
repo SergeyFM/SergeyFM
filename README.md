@@ -77,7 +77,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Dependency ingection: DryIoc, Autofac
 *	Serializing: Newtonsoft.Json, System.Text.Json
 *	In-memory data sotre: Redis, Memcached
-*	Authentication protocols: OAuth 2.0, OpenID Connect
+*	Authentication: OAuth 2.0, OpenID Connect, ASP.NET Core Identity
 *	Msg queues: RabbitMQ, WSO2, ZeroMQ
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
@@ -87,6 +87,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 12-Sep-2023 </sup>
+<sup> Updated 13-Sep-2023 </sup>
 
 
