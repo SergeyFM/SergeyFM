@@ -60,10 +60,10 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A
 *	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC
 
-### Technologies, applications and frameworks I review, learn, or already work with:
+### Technologies, applications and frameworks I review, learn, or only plan to do so:
 *	Base tech: C#, PowerShell, .NET Framework/Core, LINQ, Git, Linux, Windows, MS Visual Studio
 *	BPMS: ELMA BPM
-*	WEB: ASP.NET, Razor pages, Blazor, Angular, React
+*	WEB: ASP.NET, Razor pages, Blazor, Angular, React, htmx
 *	DB: PostgreSQL+SQL:2016+PL/pgSQL, MS SQL Server, MySQL, MongoDB, LiteDB
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: MSTest, xUnit
@@ -87,6 +87,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 17-Sep-2023 </sup>
+<sup> Updated 18-Sep-2023 </sup>
 
 
