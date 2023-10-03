@@ -21,7 +21,7 @@ Then I decided to focus on programming and am currently working as a C# develope
 
 ### Over the years, my language path has looked like this:
 
-:arrow_forward: QuickBasic ➔ 8086_assembly ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ Java ➔ C# 
+:arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ C# 
 <br> <br>
 I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
 
@@ -87,6 +87,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 28-Sep-2023 </sup>
+<sup> Updated 03-Oct-2023 </sup>
 
 
