@@ -23,7 +23,7 @@ Then I decided to focus on programming and am currently working as a C# develope
 
 :arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ C# 
 <br> <br>
-I ended up getting a **C#** job, which means that I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
+I ended up getting a **C#** job, and I I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
 
 ### Languages I like: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
 
@@ -87,6 +87,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 03-Oct-2023 </sup>
+<sup> Updated 12-Oct-2023 </sup>
 
 
