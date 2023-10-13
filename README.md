@@ -74,6 +74,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Containerization and virtualization: Docker, Kubernetes/k8s
 *	Dependency ingection: DryIoc, Autofac
 *	In-memory data sotre: Redis, Memcached
+*	Analytics/Visualisation: Qlik Sense, Tableau, Microsoft Power BI
 *	Authentication: OAuth 2.0, OpenID Connect, ASP.NET Core Identity
 *	Msg queues: RabbitMQ, WSO2, ZeroMQ
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
