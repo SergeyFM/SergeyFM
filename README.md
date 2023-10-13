@@ -60,33 +60,27 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
 *	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC
 
-### Technologies, applications and frameworks I review, learn, or only plan to do so:
-*	Base tech: C#, PowerShell, .NET Framework/Core, LINQ, Git, Linux, Windows, MS Visual Studio
-*	BPMS: ELMA BPM
-*	WEB: ASP.NET, Razor pages, Blazor, Angular, React, htmx
-*	DB: PostgreSQL+SQL:2016+PL/pgSQL, MS SQL Server, MySQL, MongoDB, LiteDB
+### Technologies, applications and frameworks I (plan to) dig into:
+*	Base tech: PowerShell, Linux
+*	WEB: Blazor, Angular, React, htmx
+*	DB: MS SQL Server, MySQL, LiteDB
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: MSTest, xUnit
 *	Logging: SeriLog, Log4net, NLog
 *	Cloud/Servers: Yandex Cloud, Azure, Windows Dedicated Server
-*	MS Office: EPPlus, Spire.Doc, Interop, +VBA
-*	UI frameworks: WinForms, WPF, UWP, WinUI3, MAUI
+*	UI frameworks: MAUI
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
-*	API: REST, SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI
-*	Containerization and virtualization: Docker, Kubernetes/k8s, Oracle Virtual Box, MS Hyper-V 
+*	API: SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI
+*	Containerization and virtualization: Docker, Kubernetes/k8s
 *	Dependency ingection: DryIoc, Autofac
-*	Serializing: Newtonsoft.Json, System.Text.Json
 *	In-memory data sotre: Redis, Memcached
 *	Authentication: OAuth 2.0, OpenID Connect, ASP.NET Core Identity
 *	Msg queues: RabbitMQ, WSO2, ZeroMQ
-*	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 *	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC, MSA, SOA
-*	Team collab: Atlassian Jira, Confluence, Asana, Trello, GitHub
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
-*	Data Structures and Algorithms
 
 <br> <br> 
-<sup> Updated 12-Oct-2023 </sup>
+<sup> Updated 13-Oct-2023 </sup>
 
 
