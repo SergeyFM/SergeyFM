@@ -50,11 +50,11 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	ORM: NHibernate
 *	Unit testing: MSTest
 *	Logging: SeriLog
-*	Cloud/Servers: Yandex Cloud, Azure, Windows Dedicated Server
+*	Cloud/Servers: Windows Dedicated Server
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF
 *	API: RESTful
-*	Containerization and virtualization: Oracle Virtual Box
+*	Containerization and virtualization: Oracle Virtual Box, Hyper-V
 *	Dependency ingection: DryIoc
 *	Serializing: Newtonsoft.Json, System.Text.Json
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
