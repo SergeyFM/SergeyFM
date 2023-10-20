@@ -70,7 +70,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Cloud/Servers: Yandex Cloud, Azure, Windows Dedicated Server
 *	UI frameworks: MAUI
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
-*	API: SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI
+*	API: SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI, Swagger/OpenAPI
 *	Containerization and virtualization: Docker, Kubernetes/k8s
 *	Dependency ingection: DryIoc, Autofac
 *	In-memory data sotre: Redis, Memcached
@@ -82,6 +82,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 
 <br> <br> 
-<sup> Updated 13-Oct-2023 </sup>
+<sup> Updated 20-Oct-2023 </sup>
 
 
