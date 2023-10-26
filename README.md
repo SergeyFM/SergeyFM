@@ -63,12 +63,12 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ### Technologies, applications and frameworks I (plan to) dig into:
 *	Base tech: PowerShell, Linux
 *	WEB: Blazor, Angular, React, htmx
-*	DB: MS SQL Server, MySQL, LiteDB
+*	DB: MS SQL Server, MySQL
 *	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
 *	Unit testing: MSTest, xUnit
 *	Logging: SeriLog, Log4net, NLog
-*	Cloud/Servers: Yandex Cloud, Azure, Windows Dedicated Server
-*	UI frameworks: MAUI
+*	Cloud/Servers: Yandex Cloud, Azure
+*	UI frameworks: MAUI, Avalonia UI
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
 *	API: SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI, Swagger/OpenAPI
 *	Containerization and virtualization: Docker, Kubernetes/k8s
@@ -82,6 +82,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 
 <br> <br> 
-<sup> Updated 23-Oct-2023 </sup>
+<sup> Updated 26-Oct-2023 </sup>
 
 
