@@ -2,12 +2,11 @@
 ## ☀️ Sergey Svistunov
 > C# developer 
 
-👔   I've worked in IT presales for many years. I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time in presales. I've been researching, building and selling complex solutions all my life.
-Then I decided to focus on programming and am currently working as a C# developer.
+👔   I have worked in IT presales for many years and have been a software developer for some time now. I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time as a solution engineer in presales. I've been researching, building and selling complex solutions my whole life. A couple of years ago I decided to focus on programming and at the moment I am working as a C# developer.
 <br>
 ***
-> With years of experience in a variety of industries, I am a rather unique kind of developer, with a combination of technical and business life skills.
-### I have significant experience in ~three~four areas:
+> Having worked in a variety of industries, I gained not only technical but also business skills.
+### I have experience in ~three~four areas:
 * Printing and document workflow&processing (Xerox and Kyocera) - 6 yrs,
 * IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
 * Banking and payment systems (Ingenico, Blockchain startup) - 1 yr,
@@ -23,7 +22,7 @@ Then I decided to focus on programming and am currently working as a C# develope
 
 :arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ C# 
 <br> <br>
-I ended up getting a **C#** job, and I I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
+I ended up getting a **C#** job, and at the moment I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
 
 ### Languages I like: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
 
@@ -44,17 +43,17 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 ### Technologies I currently use in everyday life:
 *	Base tech: C#, .NET 6/7, .NET Framework 4.6, LINQ, Git, Windows, MS Visual Studio
-*	BPMS: ELMA BPM
-*	WEB: ASP.NET, Razor pages
+*	BPMS: ELMA BPM (v.3)
+*	WEB: ASP.NET MVC, Razor pages
 *	DB: PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
 *	ORM: NHibernate
 *	Unit testing: MSTest
 *	Logging: SeriLog
 *	Cloud/Servers: Windows Dedicated Server
+*	Containerization and virtualization: Oracle Virtual Box, Hyper-V
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
 *	UI frameworks: WinForms, WPF
 *	API: RESTful
-*	Containerization and virtualization: Oracle Virtual Box, Hyper-V
 *	Dependency ingection: DryIoc
 *	Serializing: Newtonsoft.Json, System.Text.Json
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
@@ -68,10 +67,10 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Unit testing: MSTest, xUnit
 *	Logging: SeriLog, Log4net, NLog
 *	Cloud/Servers: Yandex Cloud, Azure
+*	Containerization and virtualization: Docker, Kubernetes/k8s
 *	UI frameworks: MAUI, Avalonia UI
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
 *	API: SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI, Swagger/OpenAPI
-*	Containerization and virtualization: Docker, Kubernetes/k8s
 *	Dependency ingection: DryIoc, Autofac
 *	In-memory data sotre: Redis, Memcached
 *	Analytics/Visualisation: Qlik Sense, Tableau, Microsoft Power BI
@@ -82,6 +81,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 
 <br> <br> 
-<sup> Updated 26-Oct-2023 </sup>
+<sup> Updated 28-Oct-2023 </sup>
 
 
