@@ -6,11 +6,12 @@
 <br>
 ***
 > Having worked in a variety of industries, I gained not only technical but also business skills.
-### I have experience in ~three~four areas:
+### I have experience in the following areas:
 * Printing and document workflow&processing (Xerox and Kyocera) - 6 yrs,
 * IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
 * Banking and payment systems (Ingenico, Blockchain startup) - 1 yr,
-* Gas measurement equipment (Mirax-safety) - since 2023 and counting.
+* Gas measurement equipment (Mirax-safety) - 8 mos.,
+* Pharmaceutical industry (STADA) - currently.
 
 💻 After years of working in pre-sales, around 2020 I made a 90° turn towards system development and programming. I started with CodeWars achieving 2kyu level in C++, Kotlin and later C#, then I applied that knowledge to real-world projects, some of which you can find here on GitHub. 
  <DIV align="right"> <a href="https://www.codewars.com/users/SergeyFM" target="_blank">    <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light">  </a> </DIV>
@@ -37,7 +38,8 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ✨ Please feel free to let me know if anything:  
 
 <a href="https://www.facebook.com/svistunovsergey" target="_blank">  <img src="my_fb_icon.png" height=57px> </a>  &nbsp;&nbsp; <a href="https://linkedin.com/in/sergeysvistunov" target="_blank">  <img src="my_li_icon.png" height=57px> </a>
-<br><br>
+
+<sup> * I have to confess: I used Python+Selenium to grow my LinkedIn to almost 10K connections. </sup> <br><br> 
 
 ***
 
