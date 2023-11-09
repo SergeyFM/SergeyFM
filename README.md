@@ -44,7 +44,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ***
 
 ### Technologies I currently use in everyday life:
-*	Base tech: C#, .NET 6/7, .NET Framework 4.6, LINQ, Git, Windows, MS Visual Studio
+*	Base tech: C#, .NET 6/7, .NET Framework 4.8, LINQ, Git, Windows, MS Visual Studio
 *	BPMS: ELMA BPM (v.3)
 *	WEB: ASP.NET MVC, Razor pages
 *	DB: PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
@@ -83,6 +83,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 
 <br> <br> 
-<sup> Updated 28-Oct-2023 </sup>
+<sup> Updated 09-Nov-2023 </sup>
 
 
