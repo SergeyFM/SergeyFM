@@ -46,11 +46,12 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 ### Technologies I currently use in everyday life:
 *	Base tech: C#, .NET 6/7, .NET Framework 4.8, LINQ, Git, Windows, MS Visual Studio
 *	BPMS: ELMA BPM (v.3)
-*	WEB: ASP.NET MVC, Razor pages
+*	WEB: ASP.NET Core MVC, Razor pages
 *	DB: PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
-*	ORM: NHibernate
+*	ORM: Entity Framework/EFCore
 *	Unit testing: MSTest
 *	Logging: SeriLog
+*	Workers: Hangfire
 *	Cloud/Servers: Windows Dedicated Server
 *	Containerization and virtualization: Oracle Virtual Box, Hyper-V
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
