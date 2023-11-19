@@ -2,10 +2,11 @@
 ## ☀️ Sergey Svistunov
 > C# developer 
 
-👔   I have worked in IT presales for many years and have been a software developer for some time now. I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time as a solution engineer in presales. I've been researching, building and selling complex solutions my whole life. A couple of years ago I decided to focus on programming and at the moment I am working as a C# developer.
+👔   Hi! I'm a .NET developer with >10 years of IT experience.
+I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time as an IT solutions engineer in pre-sales. I've been researching, building and selling complex solutions my whole life. 
 <br>
 ***
-> Having worked in a variety of industries, I gained not only technical but also business skills.
+> Having worked in a variety of industries, I've gained not only technical, but also practical team player skills.
 ### I have experience in the following areas:
 * Printing and document workflow&processing (Xerox and Kyocera) - 6 yrs,
 * IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
@@ -23,7 +24,7 @@
 
 :arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ C# 
 <br> <br>
-I ended up getting a **C#** job, and at the moment I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
+I ended up getting a **C#** job, and I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
 
 ### Languages I like: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="small_kotlin.png" height=57px> 
 
@@ -31,7 +32,7 @@ I ended up getting a **C#** job, and at the moment I prioritize the .NET platfor
 <img src="panorama.jpg" height=50px width=100%>
 
 🏃 Beside programming languages, I'm proficient in English, German and Russian. 
-I used to do a lot of long-distance running, but now I mostly walk because of time constraints.
+As a hobby, I used to do a lot of long-distance running, but now I mostly walk because of time constraints. I like photography (mostly street) and spending time with my family.
 
 
 
@@ -39,7 +40,7 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 
 <a href="https://www.facebook.com/svistunovsergey" target="_blank">  <img src="my_fb_icon.png" height=57px> </a>  &nbsp;&nbsp; <a href="https://linkedin.com/in/sergeysvistunov" target="_blank">  <img src="my_li_icon.png" height=57px> </a>
 
-<sup> * I have to confess: I used Python+Selenium to grow my LinkedIn to almost 10K connections. </sup> <br><br> 
+<sup> *Small confession: I used Python+Selenium to grow my LinkedIn to almost 10K connections. </sup> <br><br> 
 
 ***
 
@@ -84,6 +85,6 @@ I used to do a lot of long-distance running, but now I mostly walk because of ti
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 
 <br> <br> 
-<sup> Updated 09-Nov-2023 </sup>
+<sup> Updated 19-Nov-2023 </sup>
 
 
