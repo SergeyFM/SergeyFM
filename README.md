@@ -14,7 +14,7 @@ I started as a sysadmin and VBA developer, worked as a project manager, business
 * Gas measurement equipment (Mirax-safety) - 8 mos.,
 * Pharmaceutical industry (STADA) - currently.
 
-💻 After years of working in pre-sales, around 2020 I made a 90° turn towards system development and programming. I started with CodeWars improving my proficiency in C++, Kotlin and later C# achieving 2kyu level, then I applied my skills in real-world projects, some of which you can find here on GitHub. 
+💻 After years of working in technical pre-sales roles that required not only deep technical knowledge, but also people skills, I turned to software development exclusively. I started with CodeWars improving my proficiency in C++, Kotlin and later C# achieving 2kyu level, then I applied my skills in real-world projects, some of which you can find here on GitHub. 
  <DIV align="right"> <a href="https://www.codewars.com/users/SergeyFM" target="_blank">    <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light">  </a> </DIV>
 
 ***
@@ -46,20 +46,21 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 
 ### Technologies I currently use in everyday life:
 *	Base tech: C#, .NET 6/7, .NET Framework 4.8, LINQ, Git, Windows, MS Visual Studio
-*	BPMS: ELMA BPM (v.3)
+*	UI frameworks: WinForms, WPF
+*	JS UI frameworks: React, Vue
 *	WEB: ASP.NET Core MVC, Razor pages
 *	DB: PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
 *	ORM: Entity Framework/EFCore
 *	Unit testing: MSTest
 *	Logging: SeriLog
-*	Workers: Hangfire
+*	Scheduler: Hangfire
 *	Cloud/Servers: Windows Dedicated Server
 *	Containerization and virtualization: Oracle Virtual Box, Hyper-V
 *	MS Office: EPPlus, Spire.Doc, Interop, +VBA
-*	UI frameworks: WinForms, WPF
 *	API: RESTful
 *	Dependency ingection: DryIoc
 *	Serializing: Newtonsoft.Json, System.Text.Json
+*	BPMS: ELMA BPM (v.3)
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
 *	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC
 
@@ -85,6 +86,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 
 <br> <br> 
-<sup> Updated 19-Nov-2023 </sup>
+<sup> Updated 26-Nov-2023 </sup>
 
 
