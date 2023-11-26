@@ -40,7 +40,7 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 
 <a href="https://www.facebook.com/svistunovsergey" target="_blank">  <img src="my_fb_icon.png" height=57px> </a>  &nbsp;&nbsp; <a href="https://linkedin.com/in/sergeysvistunov" target="_blank">  <img src="my_li_icon.png" height=57px> </a>
 
-<sup> *Small confession: I used Python+Selenium to grow my LinkedIn to almost 10K connections. </sup> <br><br> 
+<sup> *Small confession: I used Python+Selenium to code my way to 10K LinkedIn connections. </sup> <br><br> 
 
 ***
 
