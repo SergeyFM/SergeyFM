@@ -1,6 +1,6 @@
 
 ## ☀️ Sergey Svistunov
-> C# developer 
+> C# .NET Software developer 
 
 👔   Hi! I'm a .NET developer with >10 years of IT experience.
 I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time as an IT solutions engineer in pre-sales. I've been researching, building and selling complex solutions my whole life. 
@@ -86,6 +86,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	Agile frameworks: Scrum, Kanban, Extreme Programming
 
 <br> <br> 
-<sup> Updated 26-Nov-2023 </sup>
+<sup> Updated 30-Nov-2023 </sup>
 
 
