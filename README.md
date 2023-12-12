@@ -44,48 +44,45 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 
 ***
 
-### Technologies I currently use in everyday life:
-*	Base tech: C#, .NET 6/7, .NET Framework 4.8, LINQ, Git, Windows, MS Visual Studio
-*	UI frameworks: WinForms, WPF
+### Technologies I've used or currently use:
+*	Base tech: C#, .NET 6/7/8, .NET Framework 4.8, LINQ, Git, Windows, MS Visual Studio
+*	Windows UI frameworks: WinForms, WPF
 *	JS UI frameworks: React, Vue
 *	WEB: ASP.NET Core MVC, Razor pages
-*	DB: PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
-*	ORM: Entity Framework/EFCore
-*	Unit testing: MSTest
+*	DB: MS SQL Server, PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
+*	ORM: Entity Framework (EFCore)
+*	Unit testing: MSTest, Jest
 *	Logging: SeriLog
 *	Scheduler: Hangfire
 *	Cloud/Servers: Windows Dedicated Server
 *	Containerization and virtualization: Oracle Virtual Box, Hyper-V
-*	MS Office: EPPlus, Spire.Doc, Interop, +VBA
-*	API: RESTful
-*	Dependency ingection: DryIoc
+*	MS Office: EPPlus, Spire.Doc, Interop, ExcelDataReader, +VBA
+*	API: RESTful, controller-based, minimal
+*	Dependency ingection: DryIoc, Microsoft.Extensions.DependencyInjection
 *	Serializing: Newtonsoft.Json, System.Text.Json
 *	BPMS: ELMA BPM (v.3)
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
-*	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC
+*	Arch. principles/patterns: YAGNI, KISS, SOLID, TDD, DI, IoC
 
 ### Technologies, applications and frameworks I (plan to) dig into:
 *	Base tech: PowerShell, Linux
-*	WEB: Blazor, Angular, React, htmx
-*	DB: MS SQL Server, MySQL
-*	ORM/DA: NHibernate, Entity Framework/EFCore, Dapper, ADO.NET
-*	Unit testing: MSTest, xUnit
-*	Logging: SeriLog, Log4net, NLog
+*	WEB: Blazor
+*	DB: MySQL
+*	ORM/DA: Dapper, pure ADO.NET
+*	Unit testing: nUnit, xUnit
+*	Logging: Log4net, NLog
 *	Cloud/Servers: Yandex Cloud, Azure
 *	Containerization and virtualization: Docker, Kubernetes/k8s
 *	UI frameworks: MAUI, Avalonia UI
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
-*	API: SOAP, GrafQL, gRPC, ControllerBase/MinimalAPI, Swagger/OpenAPI
-*	Dependency ingection: DryIoc, Autofac
+*	API: SOAP, GrafQL, gRPC
 *	In-memory data sotre: Redis, Memcached
 *	Analytics/Visualisation: Qlik Sense, Tableau, Microsoft Power BI
 *	Authentication: OAuth 2.0, OpenID Connect, ASP.NET Core Identity
 *	Msg queues: RabbitMQ, WSO2, ZeroMQ
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
-*	Arch. principles/patterns: SOLID, TDD, YAGNI, DI, IoC, MSA, SOA
-*	Agile frameworks: Scrum, Kanban, Extreme Programming
 
 <br> <br> 
-<sup> Updated 30-Nov-2023 </sup>
+<sup> Updated 12-Dec-2023 </sup>
 
 
