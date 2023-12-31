@@ -45,9 +45,10 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 ***
 
 ### Technologies I've used or currently use:
-*	Base tech: C#, .NET 6/7/8, .NET Framework 4.8, LINQ, Git, Windows, MS Visual Studio
+*	Base tech: C#, .NET 6/7/8, .NET Framework 4.8, LINQ, Git, Windows, JavaScript
+*	IDE: MS Visual Studio (for backend), +VS Code (for frontend)
+*	JS UI frameworks: React
 *	Windows UI frameworks: WinForms, WPF
-*	JS UI frameworks: React, Vue
 *	WEB: ASP.NET Core MVC, Razor pages
 *	DB: MS SQL Server, PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
 *	ORM: Entity Framework (EFCore)
@@ -55,11 +56,11 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	Logging: SeriLog
 *	Scheduler: Hangfire
 *	Cloud/Servers: Windows Dedicated Server
-*	Containerization and virtualization: Oracle Virtual Box, Hyper-V
+*	Containerization and virtualization: Oracle Virtual Box, Hyper-V, Docker
 *	MS Office: EPPlus, Spire.Doc, Interop, ExcelDataReader, +VBA
 *	API: RESTful, controller-based, minimal
 *	Dependency ingection: DryIoc, Microsoft.Extensions.DependencyInjection
-*	Serializing: Newtonsoft.Json, System.Text.Json
+*	Serialization: Newtonsoft.Json, System.Text.Json
 *	BPMS: ELMA BPM (v.3)
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
 *	Arch. principles/patterns: YAGNI, KISS, SOLID, TDD, DI, IoC
@@ -72,8 +73,8 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	Unit testing: nUnit, xUnit
 *	Logging: Log4net, NLog
 *	Cloud/Servers: Yandex Cloud, Azure
-*	Containerization and virtualization: Docker, Kubernetes/k8s
-*	UI frameworks: MAUI, Avalonia UI
+*	Containerization and virtualization: Kubernetes/k8s
+*	UI frameworks: Avalonia UI
 *	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
 *	API: SOAP, GrafQL, gRPC
 *	In-memory data sotre: Redis, Memcached
@@ -83,6 +84,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 12-Dec-2023 </sup>
+<sup> Updated 31-Dec-2023 </sup>
 
 
