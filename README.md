@@ -65,9 +65,14 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
 *	Arch. principles/patterns: YAGNI, KISS, SOLID, TDD, DI, IoC
 
+### Current learning priorities:
+*Architecture
+*React + JS + TS
+*Blazor
+
 ### Technologies, applications and frameworks I (plan to) dig into:
 *	Base tech: PowerShell, Linux
-*	WEB: Blazor
+*	WEB: Blazor, MAUI
 *	DB: MySQL
 *	ORM/DA: Dapper, pure ADO.NET
 *	Unit testing: nUnit, xUnit
@@ -84,6 +89,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 31-Dec-2023 </sup>
+<sup> Updated 03-Jan-2024 </sup>
 
 
