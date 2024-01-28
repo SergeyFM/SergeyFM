@@ -56,7 +56,7 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	Logging: SeriLog
 *	Scheduler: Hangfire
 *	Cloud/Servers: Windows Dedicated Server
-*	Containerization and virtualization: Oracle Virtual Box, Hyper-V, Docker
+*	Containerization and virtualization: Oracle Virtual Box, Hyper-V, Docker, Docker Compose
 *	MS Office: EPPlus, Spire.Doc, Interop, ExcelDataReader, +VBA
 *	API: RESTful, controller-based, minimal
 *	Dependency ingection: DryIoc, Microsoft.Extensions.DependencyInjection
@@ -90,6 +90,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 27-Jan-2024 </sup>
+<sup> Updated 28-Jan-2024 </sup>
 
 
