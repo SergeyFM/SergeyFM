@@ -54,7 +54,7 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	ORM: Entity Framework (EFCore)
 *	Unit testing: MSTest, Jest
 *	Logging: SeriLog
-*	Scheduler: Hangfire
+*	Scheduler: Hangfire, Rundeck + NSSM
 *	Cloud/Servers: Windows Dedicated Server
 *	Containerization and virtualization: Oracle Virtual Box, Hyper-V, Docker, Docker Compose
 *	MS Office: EPPlus, Spire.Doc, Interop, ExcelDataReader, +VBA
@@ -64,7 +64,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	BPMS: ELMA BPM (v.3)
 *	PLC: RS485, RS232, Modbus, HART, SNMP, OWEN MB110-220.8AC, MB110-224.8A, МУ110-224.16Р
 *	Arch. principles/patterns: YAGNI, KISS, SOLID, TDD, DI, IoC
-*	Scheduling: Rundeck + NSSM
 
 ### Current learning priorities:
 * Architecture
@@ -90,6 +89,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 28-Jan-2024 </sup>
+<sup> Updated 29-Jan-2024 </sup>
 
 
