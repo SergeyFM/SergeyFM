@@ -51,7 +51,7 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	Windows UI frameworks: WinForms, WPF
 *	WEB: ASP.NET Core MVC, Razor pages
 *	DB: MS SQL Server, PostgreSQL+SQL:2016+PL/pgSQL, LiteDB
-*	ORM: Entity Framework (EFCore)
+*	ORM: Entity Framework (EFCore), Dapper
 *	Unit testing: MSTest, Jest
 *	Logging: SeriLog
 *	Scheduler: Hangfire, Rundeck + NSSM
