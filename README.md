@@ -68,7 +68,7 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 ### Current learning priorities:
 * Architecture
 * F#
-* React + JS + TS
+* React + JS/TS
 * Blazor
 
 ### Technologies, applications and frameworks I (plan to) dig into:
@@ -90,6 +90,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 21-Feb-2024 </sup>
+<sup> Updated 05-Mar-2024 </sup>
 
 
