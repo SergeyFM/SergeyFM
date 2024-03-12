@@ -68,6 +68,7 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 ### Current learning priorities:
 * Architecture
 * F#
+* MediatR
 * React + JS/TS
 * Blazor
 
