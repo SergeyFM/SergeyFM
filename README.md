@@ -22,7 +22,7 @@ I started as a sysadmin and VBA developer, worked as a project manager, business
 
 ### Over the years, my language path has looked like this:
 
-:arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ JavaScript ➔ C++ ➔ Kotlin ➔ C# 
+:arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ languages I practically forgot ➔ C# 
 <br> <br>
 I ended up getting a **C#** job, and I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
 
@@ -91,6 +91,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 15-Mar-2024 </sup>
+<sup> Updated 19-Mar-2024 </sup>
 
 
