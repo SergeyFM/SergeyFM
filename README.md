@@ -2,11 +2,11 @@
 ## ☀️ Sergey Svistunov
 > C# .NET Software developer 
 
-👔   Hi! I'm a .NET developer with >10 years of IT experience.
-I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time as an IT solutions engineer in pre-sales. I've been researching, building and selling complex solutions my whole life. 
+👔   I am a .NET developer with over a decade of experience in the IT industry.
+I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time as an IT solutions engineer in pre-sales. My career has been dedicated to the research, development, and sale of complex IT solutions. 
 <br>
 ***
-> Having worked in a variety of industries, I've gained not only technical, but also practical team player skills.
+> My experience across diverse industries has endowed me with not only technical expertise but also valuable collaborative skills.
 ### I have experience in the following areas:
 * Printing and document workflow&processing (Xerox and Kyocera) - 6 yrs,
 * IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
@@ -14,33 +14,31 @@ I started as a sysadmin and VBA developer, worked as a project manager, business
 * Gas measurement equipment (Mirax-safety) - 8 mos.,
 * Pharmaceutical industry (STADA) - currently.
 
-💻 After years of working in technical pre-sales roles that required not only deep technical knowledge, but also people skills, I turned to software development exclusively. I started with CodeWars improving my proficiency in C++, Kotlin and later C# achieving 2kyu level, then I applied my skills in real-world projects, some of which you can find here on GitHub. 
+💻 Following years in technical pre-sales roles, where I honed both my technical acumen and interpersonal skills, I have exclusively focused on software development. I began my journey on CodeWars, enhancing my skills in C++, Kotlin, and later C#, achieving a 2kyu level. Subsequently, I leveraged these skills in real-world projects, some of which are showcased on my GitHub. 
  <DIV align="right"> <a href="https://www.codewars.com/users/SergeyFM" target="_blank">    <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light">  </a> </DIV>
 
 ***
 > The world of programming isn't uncharted territory for me,  but it's still hard to learn to code well. 
 
-### Over the years, my language path has looked like this:
+### My journey through programming languages:
 
-:arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ languages I practically forgot ➔ C# 
+:arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ languages I moved away from ➔ C# 
 <br> <br>
-I ended up getting a **C#** job, and I prioritize the .NET platform überall. Other languages and platforms are on the back burner. <br>
+Securing a position as a **C#** developer, I've placed a strong emphasis on the .NET platform, making it my primary area of focus. Consequently, other programming languages and platforms have been deprioritized. <br>
 
 ### Languages I like nowdays: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="FSharp.png" height=64px> 
 
 ***
 <img src="panorama.jpg" height=50px width=100%>
 
-🏃 Beside programming languages, I'm proficient in English, German and Russian. 
-As a hobby, I used to do a lot of long-distance running, but now I mostly walk because of time constraints. I like photography (mostly street) and spending time with my family.
+🏃 Beyond programming languages, I am proficient in English, German, and Russian, and I have recently begun learning French.
+Previously an avid long-distance runner, time constraints now see me primarily walking. My leisure interests include street photography and quality family time.
 
 
 
 ✨ Please feel free to let me know if anything:  
 
 <a href="https://www.facebook.com/svistunovsergey" target="_blank">  <img src="my_fb_icon.png" height=57px> </a>  &nbsp;&nbsp; <a href="https://linkedin.com/in/sergeysvistunov" target="_blank">  <img src="my_li_icon.png" height=57px> </a>
-
-<sup> *Small confession: I used Python+Selenium to code my way to 10K LinkedIn connections. </sup> <br><br> 
 
 ***
 
@@ -75,7 +73,6 @@ As a hobby, I used to do a lot of long-distance running, but now I mostly walk b
 ### Technologies, applications and frameworks I (plan to) dig into:
 *	Base tech: PowerShell, Linux
 *	WEB: Blazor, MAUI
-*	DB: MySQL
 *	ORM/DA: Dapper, pure ADO.NET
 *	Unit testing: nUnit, xUnit
 *	Logging: Log4net, NLog
