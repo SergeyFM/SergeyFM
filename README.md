@@ -2,8 +2,7 @@
 ## ☀️ Sergey Svistunov
 > C# .NET Software developer 
 
-👔   I am a .NET developer with over a decade of experience in the IT industry.
-I started as a sysadmin and VBA developer, worked as a project manager, business analyst, and for the longest time as an IT solutions engineer in pre-sales. My career has been dedicated to the research, development, and sale of complex IT solutions. 
+👔   As a .NET developer with more than a decade of experience in the IT industry, my career began in roles such as a sysadmin and VBA developer. I then progressed to positions including project manager and business analyst, eventually focusing on pre-sales as an IT solutions engineer. Throughout my career, I have been dedicated to the research, development, and commercialization of complex IT solutions.
 <br>
 ***
 > My experience across diverse industries has endowed me with not only technical expertise but also valuable collaborative skills.
