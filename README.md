@@ -13,7 +13,7 @@
 * Gas measurement equipment (Mirax-safety) - 8 mos.,
 * Pharmaceutical industry (STADA) - currently.
 
-💻 Following years in technical pre-sales roles, where I honed both my technical acumen and interpersonal skills, I have exclusively focused on software development. I began my journey on CodeWars, enhancing my skills in C++, Kotlin, and later C#, achieving a 2kyu level. Subsequently, I leveraged these skills in real-world projects, some of which are showcased on my GitHub. 
+💻 Following years in technical pre-sales roles, which enhanced both my technical acumen and interpersonal skills, I have exclusively focused on software development. I began my journey on CodeWars, working on my skills in C++, Kotlin, and later C#, achieving a 2kyu level. Subsequently, I leveraged these skills in real-world projects, some of which are showcased on my GitHub. 
  <DIV align="right"> <a href="https://www.codewars.com/users/SergeyFM" target="_blank">    <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light">  </a> </DIV>
 
 ***
