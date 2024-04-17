@@ -87,6 +87,6 @@ Previously an avid long-distance runner, time constraints now see me primarily w
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 12-Apr-2024 </sup>
+<sup> Updated 17-Apr-2024 </sup>
 
 
