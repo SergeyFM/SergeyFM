@@ -10,7 +10,7 @@
 * Printing and document workflow&processing (Xerox and Kyocera) - 6 yrs,
 * IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
 * Banking and payment systems (Ingenico, Blockchain startup) - 1 yr,
-* Gas measurement equipment (Mirax-safety) - 8 mos.,
+* Manufacturing - gas measurement equipment (Mirax-safety) - 8 mos.,
 * Pharmaceutical industry (STADA) - currently.
 
 💻 Following years in technical pre-sales roles, which enhanced both my technical acumen and interpersonal skills, I have exclusively focused on software development. I began my journey on CodeWars, working on my skills in C++, Kotlin, and later C#, achieving a 2kyu level. Subsequently, I leveraged these skills in real-world projects, some of which are showcased on my GitHub. 
@@ -87,6 +87,6 @@ Previously an avid long-distance runner, time constraints now see me primarily w
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 23-Apr-2024 </sup>
+<sup> Updated 08-May-2024 </sup>
 
 
