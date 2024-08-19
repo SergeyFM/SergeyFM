@@ -25,7 +25,7 @@
 <br> <br>
 Securing a position as a **C#** developer, I've placed a strong emphasis on the .NET platform, making it my primary area of focus. Consequently, other programming languages and platforms have been deprioritized. <br>
 
-### Languages I like nowdays: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="FSharp.png" height=64px> 
+### Languages I like nowdays: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="FSharp.png" height=64px> &nbsp;&nbsp; <img src="TS_logo_black.png" height=64px> 
 
 ***
 <img src="panorama.jpg" height=50px width=100%>
