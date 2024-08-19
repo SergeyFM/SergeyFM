@@ -13,7 +13,7 @@
 * Manufacturing - gas measurement equipment (Mirax-safety) - 8 mos.,
 * Pharmaceutical industry (STADA) - currently.
 
-💻 Following years in technical pre-sales roles, which enhanced both my technical acumen and interpersonal skills, I have exclusively focused on software development. I began my journey on CodeWars, working on my skills in C++, Kotlin, and later C#, achieving a 2kyu level. Subsequently, I leveraged these skills in real-world projects, some of which are showcased on my GitHub. 
+💻 Following years in technical pre-sales roles, which enhanced both my technical acumen and interpersonal skills, I have exclusively focused on software development. I began my journey on CodeWars, working on my skills in C++, Kotlin, and later C#, achieving a 2kyu level. Subsequently, I leveraged these skills in real-world projects, most of which I can't showcase on my GitHub. 
  <DIV align="right"> <a href="https://www.codewars.com/users/SergeyFM" target="_blank">    <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light">  </a> </DIV>
 
 ***
@@ -42,7 +42,7 @@ Previously an avid long-distance runner, time constraints now see me primarily w
 ***
 
 ### Technologies I've used or currently use:
-*	Base tech: C#, .NET 6/7/8, .NET Framework 4.8, LINQ, Git, Windows, JavaScript
+*	Base tech: C#, .NET 6/8, .NET Framework 4.8, LINQ, Git, Windows, JavaScript
 *	IDE: MS Visual Studio (for backend), +VS Code (for frontend)
 *	JS UI frameworks: React
 *	Windows UI frameworks: WinForms, WPF
@@ -64,29 +64,24 @@ Previously an avid long-distance runner, time constraints now see me primarily w
 
 ### Current learning priorities:
 * Architecture
-* F#
-* MediatR
 * React + JS/TS
-* Blazor
+* Docker/Kubernetes
 
 ### Technologies, applications and frameworks I (plan to) dig into:
 *	Base tech: PowerShell, Linux
-*	WEB: Blazor, MAUI
+*	WEB: Blazor, MAUI, React
 *	ORM/DA: Dapper, pure ADO.NET
-*	Unit testing: nUnit, xUnit
-*	Logging: Log4net, NLog
+*	Unit testing: xUnit, Fluent Assertions
 *	Cloud/Servers: Yandex Cloud, Azure
 *	Containerization and virtualization: Kubernetes/k8s
-*	UI frameworks: Avalonia UI
-*	UI MVVM: ReactiveUI, MVVMCross, Prism, CommunityToolkit.Mvvm
 *	API: SOAP, GrafQL, gRPC
 *	In-memory data sotre: Redis, Memcached
 *	Analytics/Visualisation: Qlik Sense, Tableau, Microsoft Power BI
-*	Authentication: OAuth 2.0, OpenID Connect, ASP.NET Core Identity
-*	Msg queues: RabbitMQ, WSO2, ZeroMQ
+*	Authentication: OAuth 2.0, Microsoft Identity Server, ASP.NET Core Identity
+*	Msg queues: RabbitMQ
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 08-May-2024 </sup>
+<sup> Updated 19-Aug-2024 </sup>
 
 
