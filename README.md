@@ -7,11 +7,11 @@
 ***
 > My experience across diverse industries has endowed me with not only technical expertise but also valuable collaborative skills.
 ### I have experience in the following areas:
-* Printing and document workflow&processing (Xerox and Kyocera) - 6 yrs,
-* IoT projects for cars (Brightbox, C-Cars) - 2 yrs,
-* Banking and payment systems (Ingenico, Blockchain startup) - 1 yr,
-* Manufacturing - gas measurement equipment (Mirax-safety) - 8 mos.,
-* Pharmaceutical industry (STADA) - currently.
+* Printing and document workflow&processing (Xerox and Kyocera)
+* IoT projects for cars (Brightbox, C-Cars)
+* Banking and payment systems (Ingenico, Blockchain startup)
+* Manufacturing - gas measurement equipment (Mirax-safety)
+* Pharmaceutical industry (STADA)
 
 💻 Following years in technical pre-sales roles, which enhanced both my technical acumen and interpersonal skills, I have exclusively focused on software development. I began my journey on CodeWars, working on my skills in C++, Kotlin, and later C#, achieving a 2kyu level. Subsequently, I leveraged these skills in real-world projects, most of which I can't showcase on my GitHub. 
  <DIV align="right"> <a href="https://www.codewars.com/users/SergeyFM" target="_blank">    <img src="https://www.codewars.com/users/SergeyFM/badges/large?theme=light">  </a> </DIV>
@@ -23,7 +23,6 @@
 
 :arrow_forward: QuickBasic ➔ VBA ➔ VB6 ➔ VB.NET ➔ a looong break ➔ languages I moved away from ➔ C# 
 <br> <br>
-Securing a position as a **C#** developer, I've placed a strong emphasis on the .NET platform, making it my primary area of focus. Consequently, other programming languages and platforms have been deprioritized. <br>
 
 ### Languages I like nowdays: &nbsp; <img src="small_c-sharp-dot-net.png" height=57px> &nbsp;&nbsp; <img src="FSharp.png" height=64px> &nbsp;&nbsp; <img src="TS_logo_black.png" height=64px> 
 
@@ -82,6 +81,6 @@ Previously an avid long-distance runner, time constraints now see me primarily w
 *	AI/ML: ML.NET, Accord.NET, .NET for Apache Spark, TensorFlow, ONNX, Infer.NET
 
 <br> <br> 
-<sup> Updated 19-Aug-2024 </sup>
+<sup> Updated 01-Oct-2024 </sup>
 
 
